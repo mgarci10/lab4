@@ -1,0 +1,12 @@
+          CLASS           LOCATION        DAYS           TIME          CLASS       OPEN
+                                                                       LIMIT       SEATS       TAKEN
+
+          ACC 2100 001     LH 122         M-W-F            8:00          20          4          16
+          ACC 2100 002     LH  17         M-W-F            9:00          43          5          38
+          ACC 2150 001     LH  17         M-W-F           10:00          29          6          23
+          ACC 2150 002     LH  21         M-W-F           11:00          30          3          27
+          ACC 2150 003     LH  21         MTWHF           12:00          30          5          25
+          COM 2100 001     LH 119         -T-H-           12:00          45          7          38
+          COM 2100 002     LH 119         -T-H-           12:00          55         12          43
+
+          GRAND TOTAL                                                   252         42         219
